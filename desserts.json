@@ -7,7 +7,7 @@
 			"Description": "Macaron is a popular french dessert, mainly made with mixture of almond powder and powdered sugar and egg whites. There can be variety of different flavors with made with filling creams.",
 			"PossibleAllergies": "Eggs and Almonds",
 			"WebUrl": "https://www.google.com/search?q=macaron%20near%20me",
-			"Image": "https://raw.githubusercontent.com/worud0511/JSONProjectsIT315/master/Brownie.jpeg"
+			"Image": "Macaron.jpeg"
 		},
 		{
 			"DessertName": "Egg Tart",
@@ -34,7 +34,7 @@
 			"Description": "Brownies are rich chocolate flavored desserts. Many people love to eat it with vanilla ice cream on top or adding some toppings such as nuts.",
 			"PossibleAllergies": "Eggs and Dairy",
 			"WebUrl": "https://www.google.com/search?q=Brownie%20near%20me",
-			"Image": "Brownie.jpeg"
+			"Image": "https://raw.githubusercontent.com/worud0511/JSONProjectsIT315/master/Brownie.jpeg"
 		},
 		{
 			"DessertName": "Chocolate Chip Cookie",
@@ -43,7 +43,7 @@
 			"Description": "Chocolate Chip Cookies are simple, yet sweet dessert made with chocolate chips mixed with cookie dough.",
 			"PossibleAllergies": "Eggs and Dairy",
 			"WebUrl": "https://www.google.com/search?sxsrf=ALeKk01N6ek5RFjujrcn5TGxOnuKJpqknw%3A1615842990658&ei=rs5PYL7gJ-Cw5NoPqoOUgAg&q=Chocolate+Chip+Cookie+near+me&oq=Chocolate+Chip+Cookie+near+me&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEMkDMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIABBHELADOgQIIxAnOgQIABBDOgQILhBDOgUIABCxAzoICAAQsQMQgwE6CwguELEDEMcBEKMCOgsILhDHARCvARCRAjoFCAAQkQI6BwguELEDEEM6BwgAELEDEEM6BQguEJECOgcIABDJAxBDOgoILhCHAhCxAxAUOgoIABCHAhCxAxAUOggIABDJAxCRAjoFCAAQkgM6CAguELEDEJECOgUILhCxAzoCCAA6BwgjELECECc6BwguELEDEAo6BwgAELEDEAo6BAgAEAo6AgguOgcIABCHAhAUOgUILhCTAjoICAAQFhAKEB5Q8p4IWJfLCGDtywhoBHACeAGAAdUBiAH4FZIBBjI0LjYuMZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwi-7-GbnLPvAhVgGFkFHaoBBYAQ4dUDCA0&uact=5",
-			"Image": "Chocolate Chip Cookie.jpeg"
+			"Image": "https://raw.githubusercontent.com/worud0511/JSONProjectsIT315/master/Chocolate%20Chip%20Cookie.jpeg"
 		}
 	]
 }
