@@ -1,0 +1,49 @@
+{
+	"desserts": [
+		{
+			"DessertName": "Macaron",
+			"Calories": "100 Cal",
+			"EstimatedPrice": 2.75,
+			"Description": "Macaron is a popular french dessert, mainly made with mixture of almond powder and powdered sugar and egg whites. There can be variety of different flavors with made with filling creams.",
+			"PossibleAllergies": "Eggs and Almonds",
+			"WebUrl": "https://www.google.com/search?q=macaron%20near%20me",
+			"Image": "Macaron.jpeg"
+		},
+		{
+			"DessertName": "Egg Tart",
+			"Calories": "202 Cal",
+			"EstimatedPrice": 2.50,
+			"Description": "An Egg Tart is a dessert made with a puff pastry and custard cream. There are many different styles of Egg tart depending on the regions.",
+			"PossibleAllergies": "Eggs and Dairy",
+			"WebUrl": "https://www.google.com/search?sxsrf=ALeKk00gYnBZ7wbuN0pOodYKL35nGjhGfg%3A1615842571946&ei=C81PYISnOaaw5NoPktq-6AU&q=Egg+Tart+near+me&oq=Egg+Tart+near+me&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEMkDEEMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BwgjELADECc6BwgAELADEEM6DQguEMcBEKMCELADEEM6BwguELADEEM6BAgjECc6CAgAELEDEIMBOgUIABCxAzoECAAQQzoLCC4QxwEQrwEQkQI6CwguEMcBEKMCEJECOgYIABAKEEM6BQgAEJECOgcILhCxAxBDOgQILhBDOgcIABCxAxBDOgIIADoFCC4QsQM6CAguEMcBEK8BUPWtGVjNvRlgqr4ZaANwAngAgAGhAYgBgguSAQQxNi4xmAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwjE2I3UmrPvAhUmGFkFHRKtD10Q4dUDCA0&uact=5",
+			"Image": "Egg Tart.jpeg"
+		},
+		{
+			"DessertName": "Tiramisu",
+			"Calories": "650 Cal",
+			"EstimatedPrice": 8.0,
+			"Description": "Tiramisu is a soft cream based dessert made with mascarpone cheese and cocoa powder. Many people make it with lady finger biscuit soaked in black coffee and the cream in between layers of the biscuit, topped with cocoa powder",
+			"PossibleAllergies": "Dairy and Eggs",
+			"WebUrl": "https://www.google.com/search?q=tiramisu%20near%20me",
+			"Image": "Tiramisu.jpeg"
+		},
+		{
+			"DessertName": "Brownie",
+			"Calories": "400 Cal",
+			"EstimatedPrice": 4.0,
+			"Description": "Brownies are rich chocolate flavored desserts. Many people love to eat it with vanilla ice cream on top or adding some toppings such as nuts.",
+			"PossibleAllergies": "Eggs and Dairy",
+			"WebUrl": "https://www.google.com/search?q=Brownie%20near%20me",
+			"Image": "Brownie.jpeg"
+		},
+		{
+			"DessertName": "Chocolate Chip Cookie",
+			"Calories": "78 Cal",
+			"EstimatedPrice": 1.5,
+			"Description": "Chocolate Chip Cookies are simple, yet sweet dessert made with chocolate chips mixed with cookie dough.",
+			"PossibleAllergies": "Eggs and Dairy",
+			"WebUrl": "https://www.google.com/search?sxsrf=ALeKk01N6ek5RFjujrcn5TGxOnuKJpqknw%3A1615842990658&ei=rs5PYL7gJ-Cw5NoPqoOUgAg&q=Chocolate+Chip+Cookie+near+me&oq=Chocolate+Chip+Cookie+near+me&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEMkDMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIABBHELADOgQIIxAnOgQIABBDOgQILhBDOgUIABCxAzoICAAQsQMQgwE6CwguELEDEMcBEKMCOgsILhDHARCvARCRAjoFCAAQkQI6BwguELEDEEM6BwgAELEDEEM6BQguEJECOgcIABDJAxBDOgoILhCHAhCxAxAUOgoIABCHAhCxAxAUOggIABDJAxCRAjoFCAAQkgM6CAguELEDEJECOgUILhCxAzoCCAA6BwgjELECECc6BwguELEDEAo6BwgAELEDEAo6BAgAEAo6AgguOgcIABCHAhAUOgUILhCTAjoICAAQFhAKEB5Q8p4IWJfLCGDtywhoBHACeAGAAdUBiAH4FZIBBjI0LjYuMZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwi-7-GbnLPvAhVgGFkFHaoBBYAQ4dUDCA0&uact=5",
+			"Image": "Chocolate Chip Cookie.jpeg"
+		}
+	]
+}
